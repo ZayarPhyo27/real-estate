@@ -1,0 +1,46 @@
+.fwhite{
+    color: white !important;
+}
+
+span.select2-selection.select2-selection--single {
+    min-height: 46px;
+}
+
+.quform-element .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 46px !important;
+}
+
+.quform-element .select2-container--default .select2-selection--single .select2-selection__arrow b {
+    top: 80%;
+}
+
+.select2 {
+    width:100%!important;
+    }
+
+.currency ul {
+    float: right;
+}
+.currency ul li {
+    float: left;
+    list-style: none;
+    padding-left: 15px;
+    color: gray;
+    cursor: pointer;
+}
+
+form.contact.quform{
+    border: 1px solid green;
+    padding: 40px;
+    background: red;
+}
+
+.range-left .form-control {
+    border: 0px !important;
+    text-align: left;
+}
+
+.range-right .form-control {
+    border: 0px !important;
+    text-align: right;
+}
