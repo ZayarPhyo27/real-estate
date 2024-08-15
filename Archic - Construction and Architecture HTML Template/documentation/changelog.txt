@@ -1,0 +1,20 @@
+--------------------------------------------------------------------------
+Version v2.0 - 25th November, 2022
+--------------------------------------------------------------------------
+
+ - NEW: Demo - 02
+ - NEW: Demo - 03
+ - NEW: Animation Added
+ - NEW: Portfolio 2 Columns Page Added
+ - NEW: Portfolio 4 Columns Page Added
+ - NEW: Blog 2 Columns Page Added
+ - NEW: Blog 2 Col Left Sidebar Page Added
+ - NEW: Blog 2 Col Right Sidebar Page Added
+ - NEW: Blog 4 Columns Page Added
+ - UPDATED: Latest Bootstrap Version
+ 
+--------------------------------------------------------------------------
+Version v1.0 - 27th September, 2022
+--------------------------------------------------------------------------
+
+ - Initial release
